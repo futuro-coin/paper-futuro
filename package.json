@@ -1,0 +1,39 @@
+{
+  "name": "paper-futuro",
+  "version": "3.1.0-futurocoin",
+  "sha256sum": "61e217ab73a1d74d6de316e8d513fbff8ab0275e9bcf7bf7fc5ac47deab6c21e",
+  "description": "Open Source JavaScript Client-Side Futurocoin Wallet Generator",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "~0.4.1",
+    "grunt-combine": "~0.8.3",
+    "grunt-lineending": "~0.2.4"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-combine": "~0.8.3",
+    "grunt-lineending": "~0.2.4"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/futuro-coin/paper-futuro"
+  },
+  "keywords": [
+    "futurocoin address wallet generator"
+  ],
+  "author": "futurocoin",
+  "contributors": [
+    {
+      "name": "futurXL"
+    }
+  ],
+  "license": "MIT",
+  "readmeFilename": "README",
+  "gitHead": "99519351e655ead836a3aa15a185a6ad17fd9107",
+  "bugs": {
+    "url": "https://github.com/futuro-coin/paper-futuro/issues"
+  }
+}
